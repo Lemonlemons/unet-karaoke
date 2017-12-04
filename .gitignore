@@ -1,0 +1,11 @@
+1_acc_based_first_feature
+2_cost_based_first_feature_no_mag
+3_cost_based_first_feature_with_mag
+inverted_then_2
+Results/1_acc_based_first_feature
+Results/2_cost_based_first_feature
+Results/3_cost_based_first_feature_with_mag
+Results/unet1024/*
+Tensorboard/unet1024/*
+.idea
+Models/__pycache__
